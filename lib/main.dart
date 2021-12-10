@@ -1,11 +1,11 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:instagram_clone/reels.dart';
-import 'package:instagram_clone/search.dart';
-import 'package:instagram_clone/shop.dart';
+import 'package:instagram_clone/screens/reels.dart';
+import 'package:instagram_clone/screens/search.dart';
+import 'package:instagram_clone/screens/shop.dart';
 
-import 'account.dart';
-import 'home.dart';
+import 'screens/account.dart';
+import 'screens/home.dart';
 
 void main() {
   runApp(const MyApp());
